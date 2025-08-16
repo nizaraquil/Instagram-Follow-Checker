@@ -32,6 +32,8 @@ cd instagram-follow-checker
 pip install -r requirements.txt
 ```
 
+---
+
 ## Usage
 
 Run the app with Streamlit:
